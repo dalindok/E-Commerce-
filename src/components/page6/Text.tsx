@@ -2,7 +2,7 @@ import React from "react";
 
 function Text() {
   return (
-    <div className="flex flex-col items-center pt-52 pr-60">
+    <div className="flex flex-col items-center pt-52 pr-40">
       <p className="text-5xl p-5">Just because</p>
       <p className="text-xl">Dainty pieces to give friends and</p>
       <p className="text-xl">family to show your love</p>
