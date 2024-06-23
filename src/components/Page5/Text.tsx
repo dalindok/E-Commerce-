@@ -19,10 +19,10 @@ function Text() {
         </p>
       </div>
       <div className="text-orange-200 flex flex-row py-8">
-        <button className="border-2 border-orange-200 px-8 py-2 text-sm mx-3">
+        <button className="border-2 border-orange-200 px-8 py-2 text-sm mx-3 hover:text-emerald-950 hover:bg-orange-200">
           Learn more
         </button>
-        <button className="border-2 border-orange-200 px-10 py-2 text-sm mx-3">
+        <button className="border-2 border-orange-200 px-10 py-2 text-sm mx-3 hover:text-emerald-950 hover:bg-orange-200">
           Email Us
         </button>
       </div>

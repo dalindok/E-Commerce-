@@ -7,7 +7,9 @@ function Text() {
       <p className="text-xl">Dainty pieces to give friends and</p>
       <p className="text-xl">family to show your love</p>
       <div className="p-10">
-        <button className="border-2 border-black px-5 py-3">Shop now</button>
+        <button className="border-2 border-black px-5 py-3 hover:text-amber-50 hover:bg-black">
+          Shop now
+        </button>
       </div>
     </div>
   );
